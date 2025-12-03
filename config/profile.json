@@ -1,0 +1,124 @@
+{
+  "name": "Srikar Kodi",
+  "title": "Working Student – Software Engineer / AI",
+  "location": "Berlin, Germany",
+  "summary": "Passionate Python Developer and MSc Computer Science (Big Data & AI) student with experience in full-stack development, data engineering, and AI agents. Skilled in building end-to-end applications, ETL pipelines, and automation tools, and actively seeking working student roles in software and AI.",
+  "contact": {
+    "email": "kodisrikar@gmail.com",
+    "phone": "+49-1634218928",
+    "linkedin": "https://www.linkedin.com/in/srikar-kodi-046a631b2/",
+    "github": "https://github.com/Namidok"
+  },
+  "skills": {
+    "languages": ["Python", "JavaScript", "HTML", "CSS", "Node JS", "PostgreSQL"],
+    "frameworks_libraries": ["Flask", "Django", "React JS", "NumPy", "Pandas", "Matplotlib", "Seaborn", "PySpark", "NLP"],
+    "cloud": ["AWS EC2", "AWS S3", "AWS Lambda", "AWS Glue", "Amazon Redshift"],
+    "tools": ["Git", "Linux", "Jupyter Notebook"],
+    "data_engineering": ["ETL pipelines", "Data cleaning", "Data warehousing", "PostgreSQL"],
+    "other": ["Manual testing", "Test planning", "Agile/Scrum"]
+  },
+  "experience": [
+    {
+      "role": "Application Developer",
+      "company": "Vavili Technologies",
+      "location": "Hyderabad, Telangana",
+      "start": "2023-05",
+      "end": "2025-08",
+      "bullets": [
+        "Played a key role in developing templeswiki.com as a Full Stack Developer, building and optimizing multiple pages and microservices to ensure a responsive and user-friendly experience.",
+        "Developed an interactive chatbot integrated with Natural Language Processing (NLP) to enhance user engagement and streamline customer interactions within the application.",
+        "Built a robust ETL pipeline using Python to generate multi-language labels, facilitating seamless content translation across languages.",
+        "Led the QA team by crafting a comprehensive test plan to rigorously test and ensure smooth application operation, and developed an in-house attendance recording tool to improve organizational efficiency."
+      ]
+    },
+    {
+      "role": "Trainee Software Engineer",
+      "company": "ValueLabs",
+      "location": "Hyderabad, Telangana",
+      "start": "2022-01",
+      "end": "2023-02",
+      "bullets": [
+        "Contributed to enhancing software modules by addressing bugs and optimizing performance, working closely with various teams to improve application quality.",
+        "Conducted thorough manual testing to identify and report bugs, ensuring comprehensive coverage of application functionalities.",
+        "Transitioned to the QA team to focus on product testing, executing test cases to validate functionality and identify areas for improvement.",
+        "Developed and executed detailed test plans and test cases for manual testing, improving the accuracy and reliability of test results."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Werkstudent Job Agent",
+      "role": "Developer",
+      "tech_stack": ["Python", "Selenium", "Pandas", "OpenPyXL", "Ollama"],
+      "bullets": [
+        "Built an automated system to scrape StepStone and LinkedIn for IT working student roles in Berlin using Selenium.",
+        "Implemented Excel-based job tracking with de-duplication and date tracking, and integrated a local LLM via Ollama to generate tailored resumes and cover letters for each job."
+      ]
+    },
+    {
+      "name": "DataSet Translator App",
+      "role": "Python Developer",
+      "tech_stack": ["Python", "Tkinter", "googletrans", "openpyxl"],
+      "bullets": [
+        "Developed a Python-based GUI application that lets users upload CSV or Excel datasets and translate content into a selected target language.",
+        "Used the googletrans library for text translation and openpyxl for efficient Excel file handling, enabling multi-language data exports for non-technical users."
+      ]
+    },
+    {
+      "name": "Data Engineering Project",
+      "role": "Data Engineer",
+      "tech_stack": ["Python", "Pandas", "PostgreSQL", "psycopg2"],
+      "bullets": [
+        "Implemented robust data cleaning and transformation pipelines in Pandas to align raw CSV data with a defined data model.",
+        "Created and managed PostgreSQL tables using psycopg2 and automated insertion of cleaned data into the database to support analytics workloads."
+      ]
+    },
+    {
+      "name": "TemplesWiki Web Platform",
+      "role": "Full Stack Developer",
+      "tech_stack": ["Python", "Flask or Django", "JavaScript", "HTML", "CSS"],
+      "bullets": [
+        "Contributed to the development of templeswiki.com by building and optimizing multiple pages and microservices for a responsive and scalable web platform.",
+        "Collaborated with designers and backend engineers to improve page performance and maintain a clean, modular codebase."
+      ]
+    },
+    {
+      "name": "NLP Chatbot for Customer Engagement",
+      "role": "Application Developer",
+      "tech_stack": ["Python", "NLP", "Web Framework"],
+      "bullets": [
+        "Developed an interactive chatbot integrated with Natural Language Processing to improve user engagement and automate answers to common queries.",
+        "Integrated the chatbot into a production web application, helping reduce manual support workload and improving response times."
+      ]
+    },
+    {
+      "name": "Multi-language Label ETL Pipeline",
+      "role": "Data Engineer",
+      "tech_stack": ["Python", "ETL", "PostgreSQL or file-based storage"],
+      "bullets": [
+        "Built an ETL pipeline in Python to generate multi-language labels from source data for use in web applications.",
+        "Automated data extraction, transformation, and loading to support seamless content translation across languages."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc in Computer Science – Big Data and Artificial Intelligence",
+      "institution": "SRH University of Applied Sciences",
+      "location": "Berlin, Germany",
+      "start": "2025-10",
+      "end": "Present"
+    },
+    {
+      "degree": "Bachelor in Electronics and Communication",
+      "institution": "MVGR College of Engineering",
+      "location": "India",
+      "start": "2016",
+      "end": "2020"
+    }
+  ],
+  "languages_spoken": [
+    "English – Fluent",
+    "German – A2 (currently learning B2)"
+  ]
+}
